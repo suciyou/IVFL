@@ -5,7 +5,16 @@ __pycache__/
 
 # C extensions
 *.so
-
+!.gitignore
+!README.md
+!requirements.txt
+!fscil.py
+!fscil_data.py
+!fscil_model.py
+!fscil_stat.py
+!fscil_train.sh
+!fscil_util.py
+!txt2json.py
 # Distribution / packaging
 .Python
 build/
