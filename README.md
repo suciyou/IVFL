@@ -16,7 +16,7 @@ The main dependencies include but are not limited to:
 
 You can generate a complete list of installed packages by running:
 ```bash
-pip freeze > requirements.txt
+pip install -r requirements.txt
 ````
 
 
